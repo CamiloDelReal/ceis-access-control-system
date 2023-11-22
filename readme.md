@@ -21,4 +21,8 @@ This is a very old project, from my time at the university in 2011.
 ### Screenshots
 <p float="left">
 <img src="https://github.com/CamiloDelReal/ceis-access-control-system/blob/main/screenshots/about.png" width="80%" height="80%" />
+<img src="https://github.com/CamiloDelReal/ceis-access-control-system/blob/main/screenshots/listadocentes.png" width="80%" height="80%" />
+<img src="https://github.com/CamiloDelReal/ceis-access-control-system/blob/main/screenshots/reglasdeacceso.png" width="80%" height="80%" />
+<img src="https://github.com/CamiloDelReal/ceis-access-control-system/blob/main/screenshots/solicitudesdellaves.png" width="80%" height="80%" />
+<img src="https://github.com/CamiloDelReal/ceis-access-control-system/blob/main/screenshots/accesodetrabajadores.png" width="80%" height="80%" />
 </p>
