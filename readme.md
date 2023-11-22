@@ -18,3 +18,7 @@ This is a very old project, from my time at the university in 2011.
 - Test
   * JUnit
 
+### Screenshots
+<p float="left">
+<img src="https://github.com/CamiloDelReal/ceis-access-control-system/blob/main/screenshots/about.png" width="80%" height="80%" />
+</p>
